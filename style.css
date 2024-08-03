@@ -150,7 +150,7 @@ overflow: hidden;
 }
 
 .main-content .box1 > div{
-    padding: 25px 20px;
+    padding: 10px 20px;
     margin-inline: 10px;
 line-height: 1.7;
 }
@@ -516,7 +516,7 @@ margin-left: 23px;
     position: absolute;
     left: -32px;
     border: 4px solid;
-    top: 13;
+    top: 13px;
 }
 .proj-progress .sp1::before{
     background: var(--gray-color) !important;
@@ -577,13 +577,14 @@ font-size: 25px;
 width: 50px;
 transition: all .3s ease; */
   }
+  
   .box1 .social-content i
   {
     color: white;
 font-size: 30px;
   }
   .box1 .social-content .rotate-icon:hover{
-    rotate: 4deg;
+   transform: rotate(6deg);
   }
   .box1 .social-content .fa-youtube{
     background: red;
