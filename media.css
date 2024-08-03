@@ -44,8 +44,7 @@
       
     .dashboard .dash1 > div .personal-img img{
 
-left: 223px;
-top: 14px;
+display: none;
     }
     .sidebar h1{
         font-size: 13px;
