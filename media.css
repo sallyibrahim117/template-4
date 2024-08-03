@@ -42,16 +42,18 @@
   }
 @media (max-width:727px){
       
+    .dashboard .dash1 > div .personal-img img{
+
+left: 223px;
+top: 14px;
+    }
     .sidebar h1{
         font-size: 13px;
     }
     .sidebar .fa-circle{
         font-size: 8px;
     }
-    .dashboard .dash1 > div .avatar{
-        display: flex;
-        left: 173px;
-    }
+    
     .dashboard .dash2{
         flex-wrap: wrap;
     }
